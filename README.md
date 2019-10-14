@@ -35,4 +35,5 @@ Figuring out how to display the data at first was the most challenging and learn
 I remade the pokédex with cleaner code. I have also separated my Fetch and my DOM logic and used Async/Await.
 
 [Link to project](https://github.com/HichamBezzizi/pokedex-revamped)
+
 [Check it out here](https://pokedex-revamped.netlify.com/)
