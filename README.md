@@ -1,14 +1,10 @@
-# ajax-pokedex
-Pokedex
+# Ajax Pokédex
 
- https://hichambezzizi.github.io/ajax-pokedex/
-# Pomodoro Clock App
-
-![Starting screen](./src/assets/img/pomodoroapp.png)
+![PokéDex](./assets/img/ajaxpokedex.png)
 
 This is a Pokédex that I had to make with a co-learner during my education at BeCode.
 
-[You can use my Pomodoro Clock here!](https://pomodoro-clock-react.herokuapp.com/)
+[Look up your favorite Pokémon here!](https://pokedex-ajax.netlify.com/)
 
 ## Mission
 
@@ -22,6 +18,7 @@ This is a Pokédex that I had to make with a co-learner during my education at B
 1. You can search a pokémon by name.
 1. It will display the searched pokémon and its previous evolution
 1. It will display the pokémon's ID, Name and 4 of its moves.
+1. If there is no previous evolution of the searched pokémon, then it will display an image of a question mark.
 
 ## What did I learn from this
 
